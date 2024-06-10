@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](./banner.png)
+![Banner](./bannervid1.mp4)
 <!--
 **harshithax03/harshithax03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
