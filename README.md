@@ -1,4 +1,5 @@
-Hello There👋! My name is Harshitha 😄
+Hello There👋!
+My name is Harshitha😄
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in AndhraPradesh, India.
