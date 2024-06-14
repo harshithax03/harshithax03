@@ -1,8 +1,9 @@
 Hello There👋!
+<br/>
 My name is Harshitha😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in AndhraPradesh, India.
+📍I am a Front-End Developer based in AndhraPradesh, India.
 <br/>
 
 ### Skills
