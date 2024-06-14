@@ -1,6 +1,4 @@
-Hello There👋!
-<br/>
-My name is Harshitha😄
+Hi there👋! My name is Harshitha<img src="./readme.png" alt="LinkedIn Badge" width = "45" height = "45"/>
 ========================================================================================================================================
 
 📍I am a Front-End Developer based in AndhraPradesh, India.
